@@ -1,0 +1,11 @@
+{
+  "name": "TAS MANTAR",
+  "description": "Selam, TAS MANTAR ŞİRKETİNE HOŞGELDİNİZ",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "tas-mantar-site.html",
+    "default_icon": "mushroom.png",
+    "default_title": "TAS MANTAR"
+  }
+}
